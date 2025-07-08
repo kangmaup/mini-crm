@@ -16,10 +16,12 @@ Basically, project to manage companies and their employees. Mini-CRM.
 1. - [ ]     Use basic Laravel resource controllers with default methods – index, create, store etc.
 1. - [ ]     Use Laravel’s validation function, using Request classes
 1. - [ ]     Use Laravel’s pagination for showing Companies/Employees list, 10 entries per page
-1. - [ ]     Use Laravel make:auth as default Bootstrap-based design theme, but remove ability to register
+1. - [ ]     Use Laravel make:auth as default Admin Dashboard, but remove ability to register
 
 Optional Feature
 
 - Use VueJs for View (Front-End)
 - Use Data Table
 - Use Permission to multi user
+- Use Pinia For State Management
+- Use UI Kit For CSS Framework
