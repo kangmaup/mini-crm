@@ -25,3 +25,4 @@ Optional Feature
 - Use Permission to multi user
 - Use Pinia For State Management
 - Use UI Kit For CSS Framework
+- Use Laravel 12
