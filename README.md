@@ -20,6 +20,6 @@ Basically, project to manage companies and their employees. Mini-CRM.
 
 Optional Feature
 
-- Use Swal JS for confirmation
+- Use VueJs for View (Front-End)
 - Use Data Table
 - Use Permission to multi user
