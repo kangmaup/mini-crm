@@ -7,7 +7,7 @@ Adminpanel to manage companies
 Basically, project to manage companies and their employees. Mini-CRM.
 
 1. - [ ]     Basic Laravel Auth: ability to log in as administrator
-1. - [ ]     Use database seeds to create first user with email admin@admin.com and password “password”
+1. - [ ]     Use database seeds to create first user with email developer@idsolutions.id and password “dev-root”
 1. - [ ]     CRUD functionality (Create / Read / Update / Delete) for two menu items: Companies and Employees.
 1. - [ ]     Companies DB table consists of these fields: Name (required), email, logo (minimum 100×100), website
 1. - [ ]     Employees DB table consists of these fields: First name (required), last name (required), Company (foreign key to Companies), email, phone
